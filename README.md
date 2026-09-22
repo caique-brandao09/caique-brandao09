@@ -8,7 +8,7 @@ Sou estudante do curso técnico em **Desenvolvimento de Sistemas** no SENAI Dend
 
 * **Front-end:** Construção e prototipagem de interfaces web responsivas e acessíveis utilizando HTML5, CSS3 e JavaScript.
 * **UI/UX Design:** Prototipação de telas, escolha de identidade visual e concepção de design focado na experiência do usuário.
-* **Projetos & Dados:** Gestão/acompanhamento de projetos em equipe, além de consultas e modelagem básica com bancos de dados SQL e Python.
+* **Projetos & Dados:** Gestão/acompanhamento de projetos em equipe, além de consultas e modelagem básica com Python.
 
 ### Tecnologias e Ferramentas:
 
@@ -18,7 +18,6 @@ Sou estudante do curso técnico em **Desenvolvimento de Sistemas** no SENAI Dend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
